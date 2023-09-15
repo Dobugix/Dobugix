@@ -25,8 +25,10 @@
 </br>
 
 # My Projetcs
+## Travesía de Norte a Sur
 
 
+<img src="./screen_menu_travesia.jpg" width="200">  <img src="./screen_game_travesia.jpg" width="200">  <img src="./screen_game_travesia_2.jpg" width="200">
 
 <!--
 **Dobugix/Dobugix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
