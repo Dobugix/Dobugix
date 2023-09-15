@@ -24,11 +24,15 @@
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 </br>
 
-# My Projetcs
-## Travesía de Norte a Sur
+# My Projects
+## Travesía de Norte a Sur available in Play store
 
 
-<img src="./screen_menu_travesia.jpg" width="200">  <img src="./screen_game_travesia.jpg" width="200">  <img src="./screen_game_travesia_2.jpg" width="200">
+Travesía is an arcade game with a vertical view, where the player objective is to eat insects before their life runs out in order to complete each level.
+Our protagonist “Chepo” is a small migratory bird whose scientific name is Cardenilla pusilla which leaves from the United States (USA) to Mexico to spend the cold winter in warmer lands.
+
+
+> <img src="./screen_menu_travesia.jpg" width="200">  <img src="./screen_game_travesia.jpg" width="200"> <img src="./screen_game_travesia_2.jpg" width="200">
 
 <!--
 **Dobugix/Dobugix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
