@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hello Everyone!👋 I am Mario Alberto, Welcome to my repository.
+### Computer System engineer
+> Unity developer, Specility studys in Programming moviles
 
 <!--
 **Dobugix/Dobugix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
