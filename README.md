@@ -1,4 +1,4 @@
-# Hello Everyone!👋 I am Mario Alberto, Welcome to my repository.
+  |# Hello Everyone!👋 I am Mario Alberto, Welcome to my repository.
 ### Computer System engineer
 > Unity developer, Specility studys in Programming moviles
 
@@ -31,9 +31,16 @@
 Travesía is an arcade game with a vertical view, where the player objective is to eat insects before their life runs out in order to complete each level.
 Our protagonist “Chepo” is a small migratory bird whose scientific name is Cardenilla pusilla which leaves from the United States (USA) to Mexico to spend the cold winter in warmer lands.
 
+<p align="center">
+<img src="./screen_menu_travesia.jpg" width="200">  <img src="./screen_game_travesia.jpg" width="200"> <img src="./screen_game_travesia_2.jpg" width="200">
+</p>
 
-> <img src="./screen_menu_travesia.jpg" width="200">  <img src="./screen_game_travesia.jpg" width="200"> <img src="./screen_game_travesia_2.jpg" width="200">
-
+## <p align="center"> :deciduous_tree:Available for all audiences:bird: </p>
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.AmetConservancyFoundationAC.TravesadeNorteaSur&gl=US">
+    <img src="get-it-on-google-play-badge.png" width="200">
+  </a>
+</p>
 <!--
 **Dobugix/Dobugix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
